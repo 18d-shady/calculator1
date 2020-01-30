@@ -3,6 +3,10 @@ operandList = []
 index = 0
 
 def cal():
+    """
+    This simple caluclator helps you get the sum, difference, product and division of two
+    Numbers. You may want to give it a try.
+    """
     result = 0
     operatorList.clear()
     operandList.clear()
